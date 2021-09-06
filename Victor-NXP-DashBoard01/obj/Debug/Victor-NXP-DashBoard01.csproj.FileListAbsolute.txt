@@ -1,0 +1,10 @@
+D:\Data\C#_Projects\Victor-NXP-DashBoard01\obj\Debug\Victor-NXP-DashBoard01.csproj.AssemblyReference.cache
+D:\Data\C#_Projects\Victor-NXP-DashBoard01\obj\Debug\Victor_NXP_DashBoard01.frmVictorNXP.resources
+D:\Data\C#_Projects\Victor-NXP-DashBoard01\obj\Debug\Victor_NXP_DashBoard01.Properties.Resources.resources
+D:\Data\C#_Projects\Victor-NXP-DashBoard01\obj\Debug\Victor-NXP-DashBoard01.csproj.GenerateResource.cache
+D:\Data\C#_Projects\Victor-NXP-DashBoard01\obj\Debug\Victor-NXP-DashBoard01.csproj.CoreCompileInputs.cache
+D:\Data\C#_Projects\Victor-NXP-DashBoard01\bin\Debug\Victor-NXP-DashBoard01.exe.config
+D:\Data\C#_Projects\Victor-NXP-DashBoard01\bin\Debug\Victor-NXP-DashBoard01.exe
+D:\Data\C#_Projects\Victor-NXP-DashBoard01\bin\Debug\Victor-NXP-DashBoard01.pdb
+D:\Data\C#_Projects\Victor-NXP-DashBoard01\obj\Debug\Victor-NXP-DashBoard01.exe
+D:\Data\C#_Projects\Victor-NXP-DashBoard01\obj\Debug\Victor-NXP-DashBoard01.pdb
